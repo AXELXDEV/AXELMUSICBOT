@@ -23,9 +23,9 @@
 
 ## 🚀 Deployment
 
-### 💜 Heroku
+### 💜 Heroku 😀
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucifeermorningstar/DaisyXMusic-2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AXELXDEV/AXELMUSICBOT)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
@@ -89,7 +89,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @DaisyXBot as Channel admin with full perms
+ 3. Add @AXEL_MUSICBot as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
